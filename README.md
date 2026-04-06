@@ -1,98 +1,125 @@
 <h1 align="center">Hi 👋, I'm Jayabhargavi</h1>
-<h3 align="center">Systems Engineer | Backend | Distributed Systems | Computer Architecture</h3>
+<h3 align="center">Data Engineer | Backend Engineer | Distributed Data Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayaatgh&label=Profile%20views&color=0e75b6&style=flat" alt="jayaatgh" />
 </p>
 
----
-
-## 🚀 About Me
-- 💼 Software Engineer at Cognizant
-- ⚡ Experience in backend development, distributed systems & performance optimization
-- 🧠 Strong foundation in Computer Architecture & Digital Design
-- 🔧 Currently building RTL projects (CPU, Cache Systems)
+<p align="center">
+  🚀 Building scalable data platforms & high-performance data pipelines  
+</p>
 
 ---
 
-## 🔥 Featured Projects
+## 🧠 About Me
 
-### 🧠 5-Stage Pipelined CPU (RISC-V Inspired)
-- Designed modular CPU with stages: IF, ID, EX, MEM, WB
-- Implemented ALU, Register File, Control Unit
-- Working on hazard detection & forwarding
-
-🔗 https://github.com/jayaatgh/riscv-pipelined-cpu  
+- 💼 Data Engineer @ Cognizant (1+ year experience)
+- ⚡ Specialized in **Big Data, ETL pipelines, distributed data processing & backend systems**
+- 📊 Strong hands-on with **Spark, Databricks, Delta Lake, Kafka**
+- 🔧 Focused on **performance optimization & scalable data architecture**
 
 ---
 
-### ⚡ Cache Simulator (LRU Replacement)
-- Simulated cache memory behavior
-- Implemented LRU replacement policy
-- Analyzed hit/miss rates
+## 🚀 What I Do
 
-🔗 https://github.com/jayaatgh/cache-simulator-lru  
-
----
-
-### 🔄 Distributed Order Processing System
-- Built event-driven system using Kafka & Spring Boot  
-- Designed for scalability and fault tolerance
+- Build **scalable ETL pipelines** for large-scale data processing  
+- Design **data lake & warehouse architectures (Bronze → Silver → Gold)**  
+- Optimize **Spark jobs for performance & cost efficiency**  
+- Develop **backend APIs for data access & services**  
+- Work with **event-driven systems using Kafka**  
 
 ---
 
-### 📊 Data Pipeline System
-- Built scalable ETL pipelines using Spark & Azure
-- Improved performance and reliability
+## 💼 Experience
+
+### 🏢 Cognizant — Data Engineer
+
+- Designed and maintained **enterprise-scale ETL pipelines** using Azure Data Factory + Databricks  
+- Optimized Spark workloads → ⚡ **30% reduction in execution time**  
+- Built **Delta Lake-based data warehouse layers** ensuring ACID compliance  
+- Improved **data reliability by 25%** via validation frameworks  
+- Developed **Python-based backend APIs** for internal data systems  
+
+---
+
+## 🔥 Key Projects
+
+### 📊 Unified Data Lake & Analytics Platform
+- Built **multi-layer data architecture (Bronze / Silver / Gold)**  
+- Automated ingestion from **multiple data sources**  
+- Enabled analytics using **Databricks SQL + Power BI**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend & Systems
+### ⚙️ Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-- Distributed Systems | Microservices | REST APIs  
-- Apache Spark | Kafka  
+- Python | Java | SQL  
 
 ---
 
-### 🧠 Computer Architecture & Hardware
-- Digital Design (FSM, ALU)  
-- CPU Pipelining | Cache Systems  
-- Verilog (learning & building)  
+### 📊 Data Engineering
+- Apache Spark | Databricks | Delta Lake  
+- ETL Pipelines | Data Warehousing | Data Modeling  
 
 ---
 
-### ☁️ Cloud
-- Azure (ADF, Databricks)  
-- AWS (Basics)  
+### 🔄 Streaming & Backend
+- Kafka | Flink  
+- REST APIs | Microservices  
 
 ---
 
-## 📈 Currently Exploring
-- System Design (SRE-level)  
-- RTL Design & CPU Architecture  
-- Performance Optimization  
+### ☁️ Cloud & DevOps
+- Azure (ADF, ADLS Gen2)  
+- AWS (Basics, EKS)  
+- Docker | CI/CD  
+
+---
+
+### 🗄️ Databases
+- PostgreSQL | NoSQL  
+
+---
+
+## 🏆 Certifications
+
+- Microsoft Azure Fundamentals (AZ-900)  
+- Azure Administrator (AZ-104)  
+- AWS Cloud Practitioner  
+- Databricks Generative AI Engineer Associate  
+- MongoDB SI Associate  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayaatgh&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayaatgh&layout=compact" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
+
 <p>
   <a href="https://linkedin.com/in/jayabhargavi-b-604a74210/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 </p>
 
-- 📧 jayabargavijaya@gmail.com  
+📧 jayabhargavi2504@gmail.com  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayaatgh&show_icons=true&locale=en&layout=compact" />
-</
+## 💡 Focus
+
+> Building reliable, scalable data systems that power real-world decisions.
