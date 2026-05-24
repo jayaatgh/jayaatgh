@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  🚀 Building scalable data platforms & high-performance data pipelines  
+  🚀 Building scalable data platforms & high-performance data pipelines <br><br>
+  🌐 <b><a href="https://portfolio-cheery-blossom.vercel.app/" target="_blank">Check out my Portfolio Website</a></b>
 </p>
 
 ---
@@ -113,11 +114,12 @@
 
 <p>
   <a href="https://linkedin.com/in/jayabhargavi-b-604a74210/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
 </p>
 
-📧 jayabhargavi2504@gmail.com  
+🌐 **Portfolio:** [portfolio-cheery-blossom.vercel.app](https://portfolio-cheery-blossom.vercel.app/)  
+📧 **Email:** jayabhargavi2504@gmail.com  
 
 ---
 
