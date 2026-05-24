@@ -94,7 +94,8 @@
 - Azure Administrator (AZ-104)  
 - AWS Cloud Practitioner  
 - Databricks Generative AI Engineer Associate  
-- MongoDB SI Associate  
+- MongoDB SI Associate
+- Databricks Certified Machine Learning Professional 
 
 ---
 
