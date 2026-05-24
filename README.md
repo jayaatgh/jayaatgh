@@ -85,7 +85,7 @@
 ---
 
 ### 🗄️ Databases
-- PostgreSQL | NoSQL  
+- PostgreSQL | NoSQL | ANSI SQL
 
 ---
 
